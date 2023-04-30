@@ -4,6 +4,7 @@ At the end of this project you are expected to be able to explain to anyone, wit
 * How do you create an HTML page?
 * What is a markup language?
 * What is the DOM?
+
 * What is an element / tag?
 * What is an attribute?
 * How does the browser load a webpage?
@@ -13,3 +14,4 @@ At the end of this project you are expected to be able to explain to anyone, wit
 * What is a selector?
 * How do you compute CSS Specificity Value?
 * What are Box properties in CSS?
+
